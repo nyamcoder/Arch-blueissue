@@ -14,7 +14,7 @@ For a better fitting into other resolutions, or making the contents flush to the
 
 The German slogan means "Arch Linux, a simple and lightweight Linux distribution". Just edit it to your liking.
 
-For other colors, you will have to change the color codes. They must be initiated with the escaped (non-printing) character combination "<Esc>[" (in vim), especially highlighted and displayed as "^["; this is what e. g. "\[" means for bash. -- For a list of possible foreground and background colors see https://wiki.archlinux.org/index.php/Color_Bash_Prompt#List_of_colors_for_prompt_and_Bash.
+For other colors, you will have to change the color codes. They must be initiated with the escaped (non-printing) character combination "<Esc>[" (in vim), highlighted and displayed as "^["; this is what e. g. "\[" means for bash. -- For a list of possible foreground and background colors see https://wiki.archlinux.org/index.php/Color_Bash_Prompt#List_of_colors_for_prompt_and_Bash.
 
 
 Note: To explicitely clear the screen after booting, e. g. for the bootloader Syslinux add "MENU CLEAR" to "/boot/syslinux/syslinux.cfg".
