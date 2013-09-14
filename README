@@ -9,9 +9,8 @@ README
 (2) Copy the file "issue" to /etc/issue to have a cool login-screen for your virtual consoles, containing a multi-colored blue-white Arch Linux logo, a (German) slogan, kernel version, date and time, numbers of logged in users, actual vc, and your $HOST, respectively.
 
 
-The contents is optimized (centered) for a resolution at 1024x768px. Here's a screenshot:
-http://mitoxd.deviantart.com/art/Arch-blue-issue-399004720
-For a better fitting into other resolutions, or making the contents flush to the left, simply add oder delete the preceding and in-between spaces.
+The contents is optimized (centered) for a resolution at 1024x768px. Here's what it looks like: http://mitoxd.deviantart.com/art/Arch-blue-issue-399004720 
+For a better fitting into other resolutions, or making the contents flush to the left, simply add oder delete the preceding and/or in-between spaces.
 
 The German slogan means "Arch Linux, a simple and lightweight Linux distribution". Just edit it to your liking.
 
@@ -21,7 +20,7 @@ For other colors, you will have to change the color codes. They must be initiate
 Note: To explicitely clear the screen after booting, e. g. for the bootloader Syslinux add "MENU CLEAR" to "/boot/syslinux/syslinux.cfg".
 
 
-Have fun!
+Have fun! ^^
 
 
 :: nyamcoder ::
