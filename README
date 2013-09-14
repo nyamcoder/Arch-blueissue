@@ -1,11 +1,12 @@
-"Arch-blueissue" for Arch Linux by nyamcoder :: mitoXD
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Arch-blueissue -- an alternate /etc/issue-file for Arch Linux
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
 
 README
 
 
 (1) As root, back up your original /etc/issue first.
-(2) Then just copy the file "issue" to /etc/issue to have a cool login-screen for your virtual consoles, containing a multi-colored blue-white Arch Linux logo, a (German) slogan, kernel version, date and time, numbers of logged in users, actual vc, and your $HOST, respectively.
+(2) Copy the file "issue" to /etc/issue to have a cool login-screen for your virtual consoles, containing a multi-colored blue-white Arch Linux logo, a (German) slogan, kernel version, date and time, numbers of logged in users, actual vc, and your $HOST, respectively.
 
 
 The contents is optimized (centered) for a resolution at 1024x768px. Look here for a screenshot:
@@ -22,3 +23,5 @@ Note: To explicitely clear the screen after booting, e. g. for the bootloader Sy
 
 Have fun!
 
+
+:: nyamcoder ::
